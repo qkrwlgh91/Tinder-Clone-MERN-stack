@@ -3,7 +3,8 @@
 1. css naming convention : BEM
 2. Front-end
     1) React
-    2) Typescri
+    2) react-tinder-card : npm i react-tinder-card
+    3) material design : npm i @material-ui/core, npm i @material-ui/icons
 3. Back-end
     1) MongoDB
     2) Express
