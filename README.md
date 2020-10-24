@@ -1,3 +1,17 @@
+# What I use~!
+```
+1. css naming convention : BEM
+2. Front-end
+    1) React
+    2) Typescri
+3. Back-end
+    1) MongoDB
+    2) Express
+    3) node.js
+    4) Mongoose
+
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
