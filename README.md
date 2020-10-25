@@ -10,6 +10,7 @@
     2) Express
     3) node.js
     4) Mongoose
+    5) nodemon : sudo npm i -g nodemon
 
 ```
 
