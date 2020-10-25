@@ -14,6 +14,7 @@
     5) nodemon : sudo npm i -g nodemon
     6) npm i cors
     7) postman
+    8) heroku
 
 ```
 
