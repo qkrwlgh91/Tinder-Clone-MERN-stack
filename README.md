@@ -5,12 +5,15 @@
     1) React
     2) react-tinder-card : npm i react-tinder-card
     3) material design : npm i @material-ui/core, npm i @material-ui/icons
+    4) Axios : npm i axios
 3. Back-end
     1) MongoDB
     2) Express
     3) node.js
     4) Mongoose
     5) nodemon : sudo npm i -g nodemon
+    6) npm i cors
+    7) postman
 
 ```
 
